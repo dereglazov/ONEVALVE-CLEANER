@@ -3,7 +3,7 @@
 <div align="center">
 https://img.shields.io/badge/version-2026.1.0-blue
 https://img.shields.io/badge/python-3.8+-green
-https://img.shields.io/badge/platform-Windows%252010%252F11-lightgrey
+https://img.shields.io/badge/platform-Windows%252010%252F11-lightgrey </div>
 
 </div>
 📋 О проекте
