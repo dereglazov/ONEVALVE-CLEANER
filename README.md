@@ -1,11 +1,14 @@
 📦 ONE VALVE System Cleaner
 🚀 Профессиональный инструмент для очистки и оптимизации Windows
 <div align="center">
-https://img.shields.io/badge/version-2026.1.0-blue
-https://img.shields.io/badge/python-3.8+-green
-https://img.shields.io/badge/platform-Windows%252010%252F11-lightgrey </div>
+
+![Version](https://img.shields.io/badge/version-2026.1.0-blue)
+![Python](https://img.shields.io/badge/python-3.8+-green)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-orange)
 
 </div>
+
 📋 О проекте
 ONE VALVE System Cleaner — это мощный и современный инструмент для очистки операционной системы Windows от цифрового мусора, оптимизации производительности и мониторинга дискового пространства. Программа сочетает в себе профессиональные возможности с интуитивно понятным интерфейсом, вдохновлённым лучшими дизайн-решениями популярных сервисов.
 
