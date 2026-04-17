@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-2026.1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-orange)
+
 
 </div>
 
